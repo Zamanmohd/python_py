@@ -1,0 +1,29 @@
+"""count=4
+while count<=10:
+    print(count)
+    count+=4"""
+    
+"""num=int(input("enter the number:"))
+f=count=1
+while count<=10:
+    f=f*count
+    count+=1
+    print(f)
+    """
+num1=int(input("enter first number:"))
+num2=int(input("enter the second number"))
+print("1.addition \n2.substraction \n3.multiplication \n4.division")
+choice=int(input("enter your choice:"))
+if choice==1:
+    print(num1+num2)
+elif choice==2:
+    print(num1-num2)
+elif choice==3:
+    print(num1*num2)
+elif choice==4:
+    print(num1/num2)    
+else:
+    print("enter a valid  choice")
+choice2=str(input("do you want to continue yes/no:"))
+
+    
