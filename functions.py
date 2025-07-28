@@ -46,8 +46,28 @@ result=num(5,3)
 print(result)"""
 
 #multiple return function
-def num(c,d):
+"""def num(c,d):
     return(c*d,c+d,c-d)
 
 a,b,c=num(5,3)
-print(a,b,c)
+print(a,b,c)"""
+
+#local&golbal
+"""x=4
+def my_function():
+    global x  --->to modify
+    x+=5
+    print(x)
+my_function()    
+print(x)
+"""
+"""def add(c,d):
+    return c+d
+
+result=add(4,6)
+print(result)"""
+
+#recursion
+def recursive_function(parameters):
+    if len(s)==2:
+        
