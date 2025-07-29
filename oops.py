@@ -34,7 +34,7 @@ print(lap2.ram)
 print(laptops.owner)""" 
 
 #inheritance
-class Vehicles:
+"""class Vehicles:
     def detail(self,make,power):
         self.make=make
         self.power=power  
@@ -46,6 +46,7 @@ class Car(Vehicles):
 c1=Car(color="blue",brand="bmw")
 c1.detail(make="2004",power="500 rpm")
 print(c1.color)
-print(c1.power)
-    
-        
+print(c1.power)"""
+
+
+
