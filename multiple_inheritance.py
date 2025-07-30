@@ -14,5 +14,5 @@ class Child(Parent1, Parent2):
     def __init__(self):
         print("Child initialized")
         super().__init__()
-
+ 
 obj = Child()
