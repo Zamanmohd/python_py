@@ -19,5 +19,5 @@ def substarct():
     c=a-b
     print(c)
     
-subra
+s
         
