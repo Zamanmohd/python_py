@@ -67,7 +67,5 @@ print(x)
 result=add(4,6)
 print(result)"""
 
-#recursion
-def recursive_function(parameters):
-    if len(s)==2:
+
         
