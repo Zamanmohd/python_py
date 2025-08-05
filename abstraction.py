@@ -10,7 +10,6 @@ class child(parent):
     def fun (self):
         print("abrstract method implementation")
         
-        
 ob=child()
 ob.display()
 ob.fun()
